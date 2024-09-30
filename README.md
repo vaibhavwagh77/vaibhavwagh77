@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Wagh</h1>
 <h1 align="center">A passionate full-stack developer from India</h1>
+![Blue Black and White Modern Corporate Professional LinkedIn Banner ](https://github.com/user-attachments/assets/669ca47c-8dc0-433c-9170-2650bbde9789)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-![Blue Black and White Modern Corporate Professional LinkedIn Banner ](https://github.com/user-attachments/assets/669ca47c-8dc0-433c-9170-2650bbde9789)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhvawagh77" alt="vaibhavwagh77" /></a> </p>
 
