@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Wagh</h1>
-<h1 align="center">A passionate full-stack developer from India</h1>
+<h1 align="center">A passionate Full-Stack Developer | System Administrator from India</h1>
 
 
 ![Blue Black and White Modern Corporate Professional LinkedIn Banner ](https://github.com/user-attachments/assets/858a388d-7b17-4919-9e5a-2ac4a843e0c2)
