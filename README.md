@@ -2,7 +2,7 @@
 <h1 align="center">A passionate Full-Stack Developer | System Administrator from India</h1>
 
 
-![Blue Black and White Modern Corporate Professional LinkedIn Banner ](https://github.com/user-attachments/assets/858a388d-7b<img width="1584" height="396" alt="VAIBHAV WAGH" src="https://github.com/user-attachments/assets/c99e2a73-d705-41b6-8a5e-7619abd55a89" />
+<img width="1584" height="396" alt="VAIBHAV WAGH" src="https://github.com/user-attachments/assets/c99e2a73-d705-41b6-8a5e-7619abd55a89" />
 17-4919-9e5a-2ac4a843e0c2)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
